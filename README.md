@@ -13,4 +13,5 @@ dibuat aplikasi ini untuk mempermudah kegaitan mendata siapa saja yang masuk dan
 
 link
 https://github.com/Hanif0121/BukuTamu
+https://github.com/Hanif0121/Ionic-BukuTamu
 
